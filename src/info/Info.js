@@ -39,7 +39,7 @@ export const info = {
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
-    miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
+    miniBio: [ 
         {
             emoji: '☕',
             text: 'fueled by tea'
@@ -87,7 +87,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I am Manisha. I am React Js Developer within Oracle India Pvt. Ltd. I studied information technology at RGPV University, I'm great at reading. And always try to keep my optimistic problem solving skills up to date.",
+    bio: "Hello! I am Manisha. I am React Front End Developer within Oracle India Pvt. Ltd. I studied information technology at RGPV University, I'm great at reading. And always try to keep my optimistic problem solving skills up to date.",
     skills:
         {
             proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', ],
