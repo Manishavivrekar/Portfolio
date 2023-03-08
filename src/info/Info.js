@@ -50,7 +50,7 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "React developer at Oracle"
+            text: "React Front End Developer at Oracle"
         },
         {
             emoji: "📧",
