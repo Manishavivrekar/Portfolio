@@ -42,11 +42,11 @@ export const info = {
     miniBio: [ 
         {
             emoji: '☕',
-            text: 'fueled by tea'
+            text: 'Fueled by tea'
         },
         {
             emoji: '🌎',
-            text: 'based in the India'
+            text: 'Based in the India'
         },
         {
             emoji: "💼",
